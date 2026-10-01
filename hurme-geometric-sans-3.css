@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Hurme Geometric Sans 3';
+  src: url('https://cdn.jsdelivr.net/gh/n0n3gdl/fuentes-email@main/fonts/HurmeGeometricSans3-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/n0n3gdl/fuentes-email@main/fonts/HurmeGeometricSans3-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
